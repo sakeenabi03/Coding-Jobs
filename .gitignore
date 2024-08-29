@@ -1,0 +1,14 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+migrations/
+LICENSE
+__pycache__/
+/static/images/css/
+/static/images/fonts/
+/static/images/js/
+/static/images/scss/
+__init__.py
