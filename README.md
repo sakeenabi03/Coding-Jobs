@@ -27,7 +27,7 @@ Make sure you have the following installed on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shreeramkedlaya/codingjobs.git
+git clone https://github.com/sakeenabi03/Coding-Jobs.git
 cd codingjobs
 ```
 2. Create a virtual environment (optional but recommended):
